@@ -28,3 +28,5 @@ function MoveDown(element){
 	element.setAttribute('style', 'top:' + top + 'px');
 }
 ```
+
+Play with the code at jsbin: http://jsbin.com/AGoGEpaK/4/edit
